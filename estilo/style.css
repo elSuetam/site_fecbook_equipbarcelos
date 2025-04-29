@@ -1,16 +1,18 @@
 @charset "UTF-8";
 
-/*Design
-Fundo: cinza escuro ou branco
-Texto: Branco ou Preto
-Destaques: laranja
-*/
-
-
 /*Configuração global*/
 * {
     margin: 0;
     padding: 0;
+}
+
+div.q {
+    display: inline-block;
+    border: 2px, solid, black;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, yellow, orange);
+    width: 300px;
+    height: 300px;
 }
 
 /*Declaração de variáveis (não esqueça do ";")*/
