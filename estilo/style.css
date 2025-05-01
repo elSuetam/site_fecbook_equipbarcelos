@@ -53,7 +53,7 @@ nav {
     padding-top: 5px;
     margin-left: 10px;
     text-align: justify;
-    /*display: flex;*/
+    display: flex;
     flex-wrap: wrap;
 }
 
