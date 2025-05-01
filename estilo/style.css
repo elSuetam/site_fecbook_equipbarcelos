@@ -114,7 +114,8 @@ main div {
 
 main p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    /*text-align: justify;*/
+    text-align: justify;
+    margin-left: 20px;
     margin-bottom: 10px;
     font-size: 1.3em;
     max-width: 100%;
