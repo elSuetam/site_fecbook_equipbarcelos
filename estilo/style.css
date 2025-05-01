@@ -53,8 +53,7 @@ nav {
     padding-top: 5px;
     margin-left: 10px;
     text-align: justify;
-    display: flex;
-    flex-wrap: wrap;
+    display: inline-block
 }
 
 nav > a {
@@ -66,6 +65,7 @@ nav > a {
     border-radius: 5px 5px 0 0;
     position: relative;
     overflow: hidden;
+    text-align: center;
 }
 
 nav a:hover {
